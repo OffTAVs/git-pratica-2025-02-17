@@ -2,5 +2,3 @@
 Este é um repositório de prática de Git.
 
 Otávio Barbosa Ferreira
-
-Alteração a ser revertida
